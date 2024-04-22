@@ -1,6 +1,6 @@
 # NOVOMATIC
-***UWAGA*** Projekty wymagają konfiguracji SFML (Dodanie ścieżek do bibliotek)<br>
-Testowane na VS 2022 (PowerShell) z CMake 3.29.1 (Win (cmake-gui))
+***NOTE*** Projects require SFML configuration (Add paths to libraries)<br>.
+Tested on VS 2022 (PowerShell) with CMake 3.29.1 (Win (cmake-gui))
 
 cmake -S . -B build<br>
 cmake --build build<br>
