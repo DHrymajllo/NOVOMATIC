@@ -1,5 +1,5 @@
 # NOVOMATIC
-***NOTE*** Projects require SFML configuration (Add paths to libraries)<br>.
+***ATTENTION*** Projects require SFML configuration (Add paths to libraries)<br>
 Tested on VS 2022 (PowerShell) with CMake 3.29.1 (Win (cmake-gui))
 
 cmake -S . -B build<br>
